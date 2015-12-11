@@ -16,3 +16,9 @@ Any live cell with two or three live neighbours lives on to the next generation.
 Any live cell with more than three live neighbours dies, as if by over-population.
 
 Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
+
+# Usage:
+perl GameOfLife.pl
+
+# Background:
+This script born in a hackathon within a time limit, may not be the optimal solution, just share for fun
