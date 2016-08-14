@@ -1,4 +1,9 @@
 # Conway-s-Game-of-Life
+
+## Background:
+This script born in a hackathon within a time limit, may not be the optimal solution, just share for fun
+
+## What
 Quote from Wikipedia
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
@@ -20,5 +25,3 @@ Any dead cell with exactly three live neighbours becomes a live cell, as if by r
 ## Usage:
 perl GameOfLife.pl
 
-## Background:
-This script born in a hackathon within a time limit, may not be the optimal solution, just share for fun
